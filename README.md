@@ -84,10 +84,10 @@ Pipelines for preparing raw datasets for algorithmic ingestion:
 
 2. **Install standard dependencies:**
    ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn xgboost tensorflow torch jupyter
+   pip install numpy pandas matplotlib seaborn scikit-learn xgboost tensorflow torch jupyter
    ```
 
 3. **Launch Jupyter Lab / Notebook:**
    ```bash
-jupyter notebook
+   jupyter notebook
    ```
