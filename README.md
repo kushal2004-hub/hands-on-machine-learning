@@ -8,16 +8,17 @@ This repository reflects applied machine learning work across Supervised, Unsupe
 
 ## 📌 Repository Overview
 
+```text
 Data Science/
 ├── AI/
-│   ├── Deep Learning/             # Neural network architectures and computer vision
+│   ├── Deep Learning/             # Neural networks & computer vision
 │   └── Machine Learning/          # Core classical and modern ML implementations
-│       ├── Data Preprocessing/    # Imputation, scaling, and feature engineering
-│       ├── Recommender System/    # Collaborative/content-based filtering
-│       ├── Supervised Learning/   # Classification, Regression, and Ensemble techniques
-│       └── Unsupervised Learning/ # Clustering, Dimensionality Reduction, Association Rules
-└── Exploratory Data Analysis/     # Real-world domain-specific EDA case studies
-
+│       ├── Data Preprocessing/    # Scaling, imputation & feature engineering
+│       ├── Recommender System/    # Collaborative & content-based filtering
+│       ├── Supervised Learning/   # Classification, Regression & Ensemble techniques
+│       └── Unsupervised Learning/ # Clustering, PCA & Association Rules
+└── Exploratory Data Analysis/     # Domain-specific EDA case studies
+```
 
 ---
 
