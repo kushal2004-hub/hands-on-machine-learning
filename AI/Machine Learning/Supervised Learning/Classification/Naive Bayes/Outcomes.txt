@@ -1,0 +1,43 @@
+
+## 🛠️ Technologies Used
+| Library | Purpose |
+|---------|---------|
+| **Scikit-learn** | Naive Bayes, TF-IDF, train-test split |
+| **Pandas** | Data manipulation |
+| **NumPy** | Numerical operations |
+| **Matplotlib/Seaborn** | Data visualization |
+
+## 🚀 How to Run
+1. Open in Google Colab
+2. Run all cells sequentially
+3. Dataset downloads automatically
+4. View results and predictions
+
+## 🎯 Learning Outcomes
+- ✅ Text classification with Naive Bayes
+- ✅ TF-IDF vectorization for text data
+- ✅ Handling imbalanced datasets
+- ✅ Model evaluation metrics (precision, recall, f1-score)
+- ✅ Feature importance analysis
+- ✅ Comparing different Naive Bayes variants
+
+## 🔍 Key Insights
+- **MultinomialNB** works best for text classification
+- Spam messages are **longer** on average than ham messages
+- Words like **"free"**, **"txt"**, and **"claim"** are strong spam indicators
+- The model is **very conservative** with spam (high precision) but misses some (lower recall)
+
+## 📌 Note
+This notebook was created as part of AI/ML training at **Tejaspro Trainings**.
+
+## 👨‍💻 Author
+**Kushal Gowda**  
+*AI/ML Trainee at Tejaspro Trainings*
+
+## 📫 Connect
+- GitHub: [your-github-username]
+- LinkedIn: [your-linkedin-profile]
+- Email: [your-email]
+
+## 📝 License
+This project is for educational purposes only.
